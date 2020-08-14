@@ -100,7 +100,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 #menu a.navbar-brand {
 	padding: 0px;
-	margin: 0 0 10px 20px;
+	margin: 10px 0 10px 20px;
 }
 
 #menu a.navbar-brand img {
